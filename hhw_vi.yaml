@@ -19,7 +19,7 @@ nav:
 # Home page
 home:
   title: "Cách HTTPS hoạt động"
-  certificat_cta: Bắt đầu đọc"
+  certificat_cta: "Bắt đầu đọc"
   subtitle: "Cách HTTPS hoạt động ...nhưng trong truyện tranh!"
   p1: "Đã bao giờ cậu thắc mắc tại sao lại có một icon hình khóa xuất hiện trên thanh URL của trình duyệt chưa? Và tại sao nó lại quan trọng? Chúng tớ cũng từng như vậy, và bộ truyện này là dành cho cậu!"
   p2: "Hãy cùng theo dõi hành trình của Certificat, Browserbird, và Compugter để xem cách các cậu ấy giải thích tại sao HTTPS lại đóng vai trò cực kì quan trọng trong trang web và cách chúng hoạt động chung với nhau nhé!"
@@ -145,7 +145,7 @@ ep3:
   24: "Chúng ta sẽ cùng phân tích từng bước."
   25: "Bước 1: Đập tay trái. Hay còn gọi là \"Xin chào người dùng\"."
   26: "Tớ sẽ gửi một danh sách các phiên bản SSL/TLS và thuật toán mã hóa mà tớ có thể làm việc với Compugter."
-  27: "Có một từ hay hơn để gọi danh sách cách thuật toán mã hóa là \"Bộ mật mã\"ư ( cipher suite )."
+  27: "Có một từ hay hơn để gọi danh sách cách thuật toán mã hóa là \"Bộ mật mã\" ( cipher suite )."
   28: "Và giờ thì câu trông pro hơn hẳn đúng không."
   29: "Giao thức SSL và TLS đã phát triển rất nhiều qua thời gian, chúng ta sẽ nói về nó sau."
   30: "Và tớ sẽ chờ câu trả lời từ Compugter."
@@ -244,7 +244,7 @@ ep5:
   34: "Vì vậy khi các vị khách truy cập vào trang web họ sẽ gặp cảnh báo."
   35: "Chứng chỉ tự cấp có thể hữu ích cho việc kiểm thử, nhưng chúng ta không nên sử dung trong các trang công khai."
   36: "Chứng chỉ tự cấp` có thể bị giả mạo. Chúng chỉ đơn giản nói rằng "Trust me bro =))"."
-  37: "Một chứng chỉ đã xác thực sẽ nói rằng: \"Tin tôi, tôi đã được cơ quan tin tưởng\""."
+  37: "Một chứng chỉ đã xác thực sẽ nói rằng: \"Tin tôi, tôi đã được cơ quan tin tưởng\"."
   38: "Nói về việc tin tưởng. Cảm ơn cậu vì đã tin tưởng chúng tớ và theo dõi bộ truyện này."
   39: "Thật buồn khi phải nói rằng đây là kết thúc rồi."
   40: "Mong rằng cậu thích bộ truyện này!"
