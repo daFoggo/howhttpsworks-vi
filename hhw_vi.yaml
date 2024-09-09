@@ -32,7 +32,7 @@ fragment:
   ep2: "Để hiểu được cách HTTPS hoạt động, cậu cần phải biết về cách khóa mã hóa symmetric ( đối xứng ) và khóa asymmetric ( bất đối xứng ) hoạt động. Nghe có vẻ đao to búa lớn, nhưng thật ra thì không phải như vậy."
   ep3: "Khi cậu duyệt một trang có bảo mật HTTP, trình duyệt của cậu và máy chủ mà nó đang kết nối tới sẽ thực hiện một cuộc \"bắt tay bí mật\"( giao dịch ). Chúng tớ sẽ phân tích và đưa chúng vào những ví dụ thiết thực để bạn có thể thực hiện những cái bắt tay bí mật này với bạn của mình"
   ep4: "Chúng ta rất dễ bị nhầm lẫn giữa HTTPS, SSL, và TLS. Chúng ta thường sử dụng những thuật ngữ này thay thế cho nhau. Hãy cùng tìm hiểu về chúng qua một chút lịch sử nhé!"
-  ep5: "Họ là ai? Họ làm gì? Tại sao chúng ta cần họ? Làm thế nào mà học xác thực được các chứng chỉ? Sẽ có rất nhiều câu hỏi được giải đáp trong chương cuối này!"
+  ep5: "Họ là ai? Họ làm gì? Tại sao chúng ta cần họ? Làm thế nào mà họ xác thực được các chứng chỉ? Sẽ có rất nhiều câu hỏi được giải đáp trong chương cuối này!"
 
 # Episodes
 ep1:
@@ -70,7 +70,7 @@ ep1:
   32: "Và khi cậu duyệt các trang , khả năng nhận diện có nghĩa là trang mà cậu đang duyệt chắc chắn là trang mà cậu nghĩ và muốn."
   33: "HTTPS, thông qua các chứng chỉ SSL, đảm bảo rằng cậu đang kết nối với đúng người nhận mà cậu mong muốn"
   34: "Chứng chỉ SSL phải được xác thực và cấp bởi một tổ chức chứng thực hợp pháp. Cậu được phép đi qua."
-  35: "Chúng ta sẽ nói rõ về chừng chỉ SSL và Tổ chức chứng thực sau, nên hãy tiếp tục theo dõi."
+  35: "Chúng ta sẽ nói rõ về chứng chỉ SSL và Tổ chức chứng thực sau, nên hãy tiếp tục theo dõi."
   36: "Tổng kết lại, quyền riêng tư, tính toàn vẹn và khả năng nhận dạng là những lí do chính mà HTTPS rất quan trọng."
   next: "Tiếp tục với HowHTTPS.works..."
   next_teaser: "Vậy là giờ chúng ta đã biết tại sao, bước tiếp theo là hiểu về khóa mã hóa đối xứng và khóa mã hóa bất đối xứng . Nghe có vẻ phức tạp, nhưng chúng là những nội dung khá cơ bản."
