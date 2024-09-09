@@ -1,6 +1,6 @@
 # Author
 translation:
-  source: "https://dafoggo.github.io/Foggo-documents/"
+  source: "Translated by <a href='https://dafoggo.github.io/Foggo-documents/' target='_blank'>Foggo</a>"
   text_direction: "ltr" # Set to "rtl" for right-to-left languages
 
 # Navigation
@@ -57,7 +57,7 @@ ep1:
   19: "Ta sẽ thay đổi đoạn tin nhắn này để nói những điều xấu xa với Browserbird và truyền tới hắn."
   20: "Tại sao Compugter lại nói những điều như vậy với tớ?"
   21: "no text"
-  22: "Đây thường được gọi là cuộc tấn công của "a man-in-the-middle" ( kẻ trung gian)."
+  22: "Đây thường được gọi là cuộc tấn công của 'a man-in-the-middle' ( kẻ trung gian)."
   23: "Những cuộc tấn công này là tồi tệ nhất."
   24: "Crab thật độc ác."
   25: "Tính toàn vẹn có nghĩa là tin nhắn của chúng ta không được phép chỉnh sửa trên đường đi tới điểm đích."
@@ -116,7 +116,7 @@ ep2:
   34: "Điều này không chỉ tốt cho bảo mật, mà còn cho khả năng nhận dạng và chúng ta chắc chắn rằng chỉ có chủ nhân của 2 chiếc khóa mới có thể mở được hộp."
   35: "Tiếp theo, chúng ta sẽ cùng tìm hiểu xem 2 loại khóa này đóng vai trò như thế nào khi chúng ta kết nối tới một trang web sử dụng giao thức SSL."
   next: "Tiếp tục với HowHTTPS.works..."
-  next_teaser: "Mã hóa thật tuyệt đúng không! Còn tiếp theo là gì nhỉ? Hãy cùng tìm hiểu cách mà trình duyệt của bạn và internet thực hiện những cái \"bắt tay bí mật\" để đảm bảo thông tin của bạn được an toàn và bảo mật"."
+  next_teaser: "Mã hóa thật tuyệt đúng không! Còn tiếp theo là gì nhỉ? Hãy cùng tìm hiểu cách mà trình duyệt của bạn và internet thực hiện những cái \"bắt tay bí mật\" để đảm bảo thông tin của bạn được an toàn và bảo mật."
 
 ep3:
   1: "Cái bắt tay"
@@ -243,8 +243,8 @@ ep5:
   33: "Tuy nhiên, hầu hết các trình duyệt đều kiểm tra chứng chỉ cấp bởi các cơ quan chứng thực."
   34: "Vì vậy khi các vị khách truy cập vào trang web họ sẽ gặp cảnh báo."
   35: "Chứng chỉ tự cấp có thể hữu ích cho việc kiểm thử, nhưng chúng ta không nên sử dung trong các trang công khai."
-  36: "Chứng chỉ tự cấp` có thể bị giả mạo. Chúng chỉ đơn giản nói rằng "Trust me bro =))"."
-  37: "Một chứng chỉ đã xác thực sẽ nói rằng: \"Tin tôi, tôi đã được cơ quan tin tưởng\""."
+  36: "Chứng chỉ tự cấp` có thể bị giả mạo. Chúng chỉ đơn giản nói rằng 'Trust me bro =))''."
+  37: "Một chứng chỉ đã xác thực sẽ nói rằng: \"Tin tôi, tôi đã được cơ quan tin tưởng\"."
   38: "Nói về việc tin tưởng. Cảm ơn cậu vì đã tin tưởng chúng tớ và theo dõi bộ truyện này."
   39: "Thật buồn khi phải nói rằng đây là kết thúc rồi."
   40: "Mong rằng cậu thích bộ truyện này!"
